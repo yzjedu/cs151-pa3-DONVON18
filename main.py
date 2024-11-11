@@ -217,4 +217,4 @@ def main():
             loop = 'end'
 
 #calls the main function
-random_image2()
+main()
